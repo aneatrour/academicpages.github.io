@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Anna Neatrour / metametadata"
+title                    : "metametadata"
 title_separator          : "-"
 name                     : &name "Anna Neatrour"
 description              : &description "digital initiatives and other things"
