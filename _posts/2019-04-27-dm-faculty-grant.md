@@ -1,7 +1,7 @@
 ---
 title: 'Digital Matters Faculty Grant!'
-date: 2015-08-14
-permalink: /posts/2018/04-27/dm-faculty-grant/
+date: 2019-04-27
+permalink: /posts/2019/04/dm-faculty-grant/
 tags:
   - digital humanities
   - digital library
