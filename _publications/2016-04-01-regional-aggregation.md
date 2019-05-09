@@ -11,5 +11,3 @@ citation: 'Neatrour, A., Cummings, R., and McIntyre, S. (2016). &quot;Regional A
 
 
 [Download pre-print of chapter here](https://collections.lib.utah.edu/details?id=713372)
-
-Recommended citation: Neatrour, A., Cummings, R., and McIntyre, S. (2016). &quot;Regional Aggregation and Discovery of Digital Collections: The Mountain West Digital Library.&quot; <i>Exploring Discovery: The Front Door to a Library's Licensed and Digitized Content</i>. Edited by Ken Varnum for ALA Editions.
