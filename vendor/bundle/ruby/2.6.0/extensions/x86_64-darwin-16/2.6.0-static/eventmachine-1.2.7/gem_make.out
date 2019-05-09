@@ -1,0 +1,16 @@
+current directory: /Volumes/Data/Users/u0246412/Documents/GitHub/aneatrour.github.io/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/usr/local/bin/ruby -I /usr/local/lib/ruby/2.6.0 -r ./siteconf20190509-73759-iw6tio.rb extconf.rb
+creating Makefile
+
+current directory: /Volumes/Data/Users/u0246412/Documents/GitHub/aneatrour.github.io/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" clean
+
+current directory: /Volumes/Data/Users/u0246412/Documents/GitHub/aneatrour.github.io/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR="
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+
+current directory: /Volumes/Data/Users/u0246412/Documents/GitHub/aneatrour.github.io/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20190509-73759-1s0ra88
