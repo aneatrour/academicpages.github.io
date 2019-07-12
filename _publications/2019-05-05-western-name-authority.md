@@ -1,7 +1,7 @@
 ---
 title: "Western Name Authority File: A Pilot Regional Name Authority Project."
 collection: publications
-permalink: /publication/2019-05-05-western-name-authority.md
+permalink: /publication/2019-05-05-western-name-authority
 excerpt: 'Overview of the IMLS-funded WNAF project, examining issues in regional authority control for digital libraries.'
 date: 2019-05-05
 venue: 'Journal of Library Metadata'
